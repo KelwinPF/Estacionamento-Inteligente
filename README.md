@@ -1,4 +1,4 @@
-# Sistemas-Digitais
+# Estacionamento Inteligente
 
 Foi utilizada a placa galileo para fazer este protótipo de estacionamento inteligente. Esse projeto consiste em quando um carro
 estacionar em uma vaga, o sensor(LDR) alertar e acender um led mostrando se existe ou
